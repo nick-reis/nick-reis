@@ -4,9 +4,9 @@
 🚀 Currently building **[Dashlytics AI](https://github.com/nick-reis/dashlytics-ai)** — an AI-powered e-commerce analytics dashboard
 
 ## About Me
-- 🌱 Always learning; exploring **AI**, **data engineering**, and **modern web frameworks**.
-- 🧠 Focused on creating experiences where **data feels human**, not overwhelming.  
-- 💬 Enjoy working with **JavaScript**, **TypeScript**, **Python**, and **React**.  
+-  Always learning; exploring **AI**, **data engineering**, and **modern web frameworks**.
+-  Focused on creating experiences where **data feels human**.  
+-  Enjoy working with **JavaScript**, **TypeScript**, **Python**, and **React**.  
 
 <!--
 **nick-reis/nick-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
