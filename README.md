@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 💻 **Full Stack Developer** | 🎓 **Computer Science Student**  
-🚀 Currently building **[Dashlytics AI](https://github.com/nick-reis/dashlytics-ai)** — an AI-powered e-commerce analytics dashboard
+🚀 Currently building **[Dashlytics AI](https://github.com/nick-reis/dashlytics-ai)**: an AI-powered e-commerce analytics dashboard
 
 ## About Me
 -  Always learning; exploring **AI**, **data engineering**, and **modern web frameworks**.
